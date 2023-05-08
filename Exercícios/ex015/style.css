@@ -1,0 +1,17 @@
+          body {
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: darkseagreen;
+            color: blue;
+            font-size: 20px;
+        }
+        h1 {
+            color: rgb(15, 235, 224);
+            background-color: darkcyan;
+            }
+        h2 {
+            color: brown;
+        }
+        p {
+            text-align: justify;
+        }
+   
